@@ -1,0 +1,134 @@
+{
+  "semantics": {
+    "global-semantic": {
+      "opacity": {
+        "5": {
+          "value": "{primitives.global-primitive.opacity.5}",
+          "type": "float"
+        },
+        "10": {
+          "value": "{primitives.global-primitive.opacity.10}",
+          "type": "float"
+        },
+        "20": {
+          "value": "{primitives.global-primitive.opacity.20}",
+          "type": "float"
+        },
+        "30": {
+          "value": "{primitives.global-primitive.opacity.30}",
+          "type": "float"
+        },
+        "40": {
+          "value": "{primitives.global-primitive.opacity.40}",
+          "type": "float"
+        },
+        "50": {
+          "value": "{primitives.global-primitive.opacity.50}",
+          "type": "float"
+        },
+        "60": {
+          "value": "{primitives.global-primitive.opacity.60}",
+          "type": "float"
+        },
+        "70": {
+          "value": "{primitives.global-primitive.opacity.70}",
+          "type": "float"
+        },
+        "80": {
+          "value": "{primitives.global-primitive.opacity.80}",
+          "type": "float"
+        },
+        "90": {
+          "value": "{primitives.global-primitive.opacity.90}",
+          "type": "float"
+        },
+        "transparent": {
+          "value": "{primitives.global-primitive.opacity.0}",
+          "type": "float"
+        },
+        "full": {
+          "value": "{primitives.global-primitive.opacity.100}",
+          "type": "float"
+        }
+      },
+      "breakpoint": {
+        "mobile-portrait": {
+          "value": "{primitives.global-primitive.breakpoint.mobile.portrait-small}",
+          "type": "float"
+        },
+        "mobile-landscape": {
+          "value": "{primitives.global-primitive.breakpoint.mobile.landscape}",
+          "type": "float"
+        },
+        "tablet-portrait": {
+          "value": "{primitives.global-primitive.breakpoint.tablet.portrait}",
+          "type": "float"
+        },
+        "tablet-landscape": {
+          "value": "{primitives.global-primitive.breakpoint.tablet.landscape}",
+          "type": "float"
+        },
+        "desktop": {
+          "value": "{primitives.global-primitive.breakpoint.desktop.desktop}",
+          "type": "float"
+        },
+        "desktop-lg": {
+          "value": "{primitives.global-primitive.breakpoint.desktop.desktop-lg}",
+          "type": "float"
+        }
+      },
+      "border-radius": {
+        "xs": {
+          "value": "{primitives.global-primitive.sizing.size-half}",
+          "type": "float"
+        },
+        "s": {
+          "value": "{primitives.global-primitive.sizing.size-base}",
+          "type": "float"
+        },
+        "base": {
+          "value": "{primitives.global-primitive.sizing.size-2}",
+          "type": "float"
+        },
+        "m": {
+          "value": "{primitives.global-primitive.sizing.size-3}",
+          "type": "float"
+        },
+        "none": {
+          "value": 0,
+          "type": "float"
+        },
+        "full": {
+          "value": 999,
+          "type": "float"
+        },
+        "l": {
+          "value": "{primitives.global-primitive.sizing.size-4}",
+          "type": "float"
+        }
+      },
+      "border-width": {
+        "none": {
+          "value": "{primitives.global-primitive.border-width.none}",
+          "type": "float"
+        },
+        "light": {
+          "value": "{primitives.global-primitive.border-width.width-1}",
+          "type": "float"
+        },
+        "medium": {
+          "value": "{primitives.global-primitive.border-width.width-2}",
+          "type": "float"
+        },
+        "heavy": {
+          "value": "{primitives.global-primitive.border-width.width-3}",
+          "type": "float"
+        },
+        "heavier": {
+          "value": "{primitives.global-primitive.border-width.width-4}",
+          "type": "float"
+        }
+      }
+    }
+  }
+}
