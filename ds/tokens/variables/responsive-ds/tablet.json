@@ -1,0 +1,24 @@
+{
+  "responsive-ds": {
+    "components": {
+      "carousel": {
+        "cell-width": {
+          "value": 540,
+          "type": "float"
+        }
+      }
+    },
+    "typography": {
+      "navigation": {
+        "font-size": {
+          "value": "{global-primitive.type.font-size.2xl}",
+          "type": "float"
+        },
+        "line-height": {
+          "value": "{global-primitive.type.line-height.headline.xl}",
+          "type": "float"
+        }
+      }
+    }
+  }
+}
